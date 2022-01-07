@@ -1,0 +1,74 @@
+cs1302-gallery:
+total 56
+-rw-r--r--. 1 myid  3006 Apr 13 00:29 pom.xml
+-rw-r--r--. 1 myid 50806 Apr 13 00:29 README.md
+-rw-r--r--. 1 myid     0 Apr 19 23:54 rec1396
+drwxr-xr-x. 3 myid    18 Apr 13 00:29 src
+drwxr-xr-x. 5 myid    82 Apr 19 23:50 target
+
+cs1302-gallery/src:
+total 0
+drwxr-xr-x. 3 myid 26 Apr 13 00:29 main
+
+cs1302-gallery/src/main:
+total 0
+drwxr-xr-x. 3 myid 28 Apr 13 00:29 java
+
+cs1302-gallery/src/main/java:
+total 0
+drwxr-xr-x. 3 myid 29 Apr 13 00:29 cs1302
+
+cs1302-gallery/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 92 Apr 19 23:50 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+total 20
+-rw-r--r--. 1 myid   800 Apr 19 23:45 FileMenu.java
+-rw-r--r--. 1 myid 10341 Apr 19 23:50 GalleryApp.java
+-rw-r--r--. 1 myid   790 Apr 13 00:29 GalleryDriver.java
+
+cs1302-gallery/target:
+total 0
+drwxr-xr-x. 3 myid 20 Apr 19 23:50 classes
+drwxr-xr-x. 3 myid 25 Apr 19 23:50 generated-sources
+drwxr-xr-x. 3 myid 43 Apr 19 23:50 maven-status
+
+cs1302-gallery/target/classes:
+total 0
+drwxr-xr-x. 3 myid 29 Apr 19 23:50 cs1302
+
+cs1302-gallery/target/classes/cs1302:
+total 0
+drwxr-xr-x. 2 myid 95 Apr 19 23:50 gallery
+
+cs1302-gallery/target/classes/cs1302/gallery:
+total 20
+-rw-r--r--. 1 myid  1701 Apr 19 23:50 FileMenu.class
+-rw-r--r--. 1 myid 12018 Apr 19 23:50 GalleryApp.class
+-rw-r--r--. 1 myid  1123 Apr 19 23:50 GalleryDriver.class
+
+cs1302-gallery/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 10 Apr 19 23:50 annotations
+
+cs1302-gallery/target/generated-sources/annotations:
+total 0
+
+cs1302-gallery/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 Apr 19 23:50 maven-compiler-plugin
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Apr 19 23:50 compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 52 Apr 19 23:50 default-compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid  97 Apr 19 23:50 createdFiles.lst
+-rw-r--r--. 1 myid 241 Apr 19 23:50 inputFiles.lst
+/home/myid/pgc19941/cs1302-gallery:/home/myid/csci-1302
